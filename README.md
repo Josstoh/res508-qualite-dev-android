@@ -21,6 +21,10 @@ Cours RES508 - Qualité de développement Android
 
 [Atelier 2 message d'anniversaire avec image](https://developer.android.com/codelabs/basic-android-kotlin-compose-add-images?hl=fr#0 )
 
+[Atelier supplémentaire : s'entraîner au layout Compose](https://developer.android.com/codelabs/basic-android-kotlin-compose-composables-practice-problems?hl=fr)
+
+[Atelier supplémentaire : projet créer une carte de visite](https://developer.android.com/codelabs/basic-android-kotlin-compose-business-card?hl=fr) 
+
 # Créer une interface avancée
 
 [Atelier - Lancée de dés](https://developer.android.com/codelabs/basic-android-kotlin-compose-build-a-dice-roller-app?hl=fr )
