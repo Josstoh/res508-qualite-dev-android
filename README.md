@@ -41,5 +41,5 @@ Cours RES508 - Qualité de développement Android
 
 [Atelier 7 - Thème sur l'app Woof](https://developer.android.com/codelabs/basic-android-kotlin-compose-material-theming?hl=fr#0)
 
-[Atelier 8 - Animations sur l'app Woof](https://developer.android.com/codelabs/basic-android-kotlin-compose-material-theming?hl=fr#0)
+[Atelier 8 - Animations sur l'app Woof](https://developer.android.com/codelabs/basic-android-kotlin-compose-woof-animation?hl=fr)
 
