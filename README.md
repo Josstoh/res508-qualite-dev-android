@@ -28,3 +28,6 @@ Cours RES508 - Qualité de développement Android
 # Créer une interface avancée
 
 [Atelier 1 - Lancée de dés](https://developer.android.com/codelabs/basic-android-kotlin-compose-build-a-dice-roller-app?hl=fr )
+
+[Atelier 2 - Limonade]([https://developer.android.com/codelabs/basic-android-kotlin-compose-button-click-practice-problem?hl=fr 
+](https://developer.android.com/codelabs/basic-android-kotlin-compose-add-images?hl=fr#0)
