@@ -30,3 +30,16 @@ Cours RES508 - Qualité de développement Android
 [Atelier 1 - Lancée de dés](https://developer.android.com/codelabs/basic-android-kotlin-compose-build-a-dice-roller-app?hl=fr )
 
 [Atelier 2 - Limonade](https://developer.android.com/codelabs/basic-android-kotlin-compose-button-click-practice-problem?hl=fr)
+
+[Atelier 3 - Pourboires](https://developer.android.com/codelabs/basic-android-kotlin-compose-using-state?hl=fr#0)
+
+[Atelier 4 - Pourboires personnalisés](https://developer.android.com/codelabs/basic-android-kotlin-compose-calculate-tip?hl=fr#0)
+
+[Atelier 5 - Tests](https://developer.android.com/codelabs/basic-android-kotlin-compose-write-automated-tests?hl=fr#0)
+
+[Atelier 6 - Affirmations](https://developer.android.com/codelabs/basic-android-kotlin-compose-training-add-scrollable-list?hl=fr#0)
+
+[Atelier 7 - Thème sur l'app Woof](https://developer.android.com/codelabs/basic-android-kotlin-compose-material-theming?hl=fr#0)
+
+[Atelier 8 - Animations sur l'app Woof](https://developer.android.com/codelabs/basic-android-kotlin-compose-material-theming?hl=fr#0)
+
