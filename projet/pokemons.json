@@ -1,0 +1,83 @@
+[
+    {
+        "number" : 1,
+        "name" : "Bulbizarre",
+        "image" : "https://www.pokepedia.fr/images/e/ef/Bulbizarre-RFVF.png",
+        "evolutions" : {
+            "before" : [],
+            "after" : [2, 3]
+        }
+    },
+    {
+        "number" : 2,
+        "name" : "Herbizarre",
+        "image" : "https://www.pokepedia.fr/images/4/44/Herbizarre-RFVF.png",
+        "evolutions" : {
+            "before" : [1],
+            "after" : [3]
+        }
+    },
+    {
+        "number" : 3,
+        "name" : "Florizarre",
+        "image" : "https://www.pokepedia.fr/images/4/42/Florizarre-RFVF.png",
+        "evolutions" : {
+            "before" : [1, 2],
+            "after" : []
+        }
+    },
+    {
+        "number" : 4,
+        "name" : "Salamèche",
+        "image" : "https://www.pokepedia.fr/images/8/89/Salam%C3%A8che-RFVF.png",
+        "evolutions" : {
+            "before" : [],
+            "after" : [5, 6]
+        }
+    },
+    {
+        "number" : 5,
+        "name" : "Reptincel",
+        "image" : "https://www.pokepedia.fr/images/6/64/Reptincel-RFVF.png",
+        "evolutions" : {
+            "before" : [4],
+            "after" : [6]
+        }
+    },
+    {
+        "number" : 6,
+        "name" : "Dracaufeu",
+        "image" : "https://www.pokepedia.fr/images/1/17/Dracaufeu-RFVF.png",
+        "evolutions" : {
+            "before" : [4, 5],
+            "after" : []
+        }
+    },
+    {
+        "number" : 7,
+        "name" : "Carapuce",
+        "image" : "https://www.pokepedia.fr/images/c/cc/Carapuce-RFVF.png",
+        "evolutions" : {
+            "before" : [],
+            "after" : [8, 9]
+        }
+    },
+    {
+        "number" : 8,
+        "name" : "Carabaffe",
+        "image" : "https://www.pokepedia.fr/images/2/2a/Carabaffe-RFVF.png",
+        "evolutions" : {
+            "before" : [7],
+            "after" : [9]
+        }
+    },
+    {
+        "number" : 9,
+        "name" : "Tortank",
+        "image" : "https://www.pokepedia.fr/images/2/24/Tortank-RFVF.png",
+        "evolutions" : {
+            "before" : [7, 8],
+            "after" : []
+        }
+    }
+]
