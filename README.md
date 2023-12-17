@@ -43,3 +43,10 @@ Cours RES508 - Qualité de développement Android
 
 [Atelier 8 - Animations sur l'app Woof](https://developer.android.com/codelabs/basic-android-kotlin-compose-woof-animation?hl=fr)
 
+# Architecture d'une application Android
+
+[Atelier 1 - Cycle de vie d'une activité avec Dessert Clicker](https://developer.android.com/codelabs/basic-android-kotlin-compose-activity-lifecycle?hl=fr#0)
+
+[Atelier 2 - ViewModel et état dans Compose avec l'app Unscramble](https://developer.android.com/codelabs/basic-android-kotlin-compose-viewmodel-and-state?hl=fr)
+
+[Atelier 3 - Tests unitaires sur ViewModel sur Unscramble](https://developer.android.com/codelabs/basic-android-kotlin-compose-test-viewmodel?hl=fr)
