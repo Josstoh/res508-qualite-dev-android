@@ -1,8 +1,6 @@
 Cours RES508 - Qualité de développement Android
 
-# Bases Kotlin :
-
-
+# Séance 1 : Bases Kotlin
 
 [Atelier Kotlin 1](https://developer.android.com/codelabs/basic-android-kotlin-compose-first-program?hl=fr)
 
@@ -10,8 +8,7 @@ Cours RES508 - Qualité de développement Android
 
 [Atelier Kotlin 3](https://developer.android.com/codelabs/basic-android-kotlin-compose-higher-order-functions?hl=fr)
 
-
-# Première application Android :
+# Séance 2 : Première application Android :
 
 [Qualité dev Android - 3 - Créer sa première application Android.pptx](https://github.com/Josstoh/res508-qualite-dev-android/files/13635458/Qualite.dev.Android.-.3.-.Creer.sa.premiere.application.Android.pptx)
 
@@ -25,7 +22,7 @@ Cours RES508 - Qualité de développement Android
 
 [Atelier supplémentaire : projet créer une carte de visite](https://developer.android.com/codelabs/basic-android-kotlin-compose-business-card?hl=fr) 
 
-# Créer une interface avancée
+# Séance 3 : Créer une interface avancée
 
 [Atelier 1 - Lancée de dés](https://developer.android.com/codelabs/basic-android-kotlin-compose-build-a-dice-roller-app?hl=fr )
 
@@ -43,7 +40,7 @@ Cours RES508 - Qualité de développement Android
 
 [Atelier 8 - Animations sur l'app Woof](https://developer.android.com/codelabs/basic-android-kotlin-compose-woof-animation?hl=fr)
 
-# Architecture d'une application Android
+# Séance 4 : Architecture d'une application Android
 
 [Atelier 1 - Cycle de vie d'une activité avec Dessert Clicker](https://developer.android.com/codelabs/basic-android-kotlin-compose-activity-lifecycle?hl=fr#0)
 
@@ -51,7 +48,7 @@ Cours RES508 - Qualité de développement Android
 
 [Atelier 3 - Tests unitaires sur ViewModel sur Unscramble](https://developer.android.com/codelabs/basic-android-kotlin-compose-test-viewmodel?hl=fr)
 
-# Internet et coroutine
+# Séance 5 : Internet et coroutine
 
 [Atelier 1 - Présentation des coroutines](https://developer.android.com/codelabs/basic-android-kotlin-compose-coroutines-kotlin-playground?hl=fr)
 
