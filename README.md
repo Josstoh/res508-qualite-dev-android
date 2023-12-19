@@ -50,3 +50,13 @@ Cours RES508 - Qualité de développement Android
 [Atelier 2 - ViewModel et état dans Compose avec l'app Unscramble](https://developer.android.com/codelabs/basic-android-kotlin-compose-viewmodel-and-state?hl=fr)
 
 [Atelier 3 - Tests unitaires sur ViewModel sur Unscramble](https://developer.android.com/codelabs/basic-android-kotlin-compose-test-viewmodel?hl=fr)
+
+# Internet et coroutine
+
+[Atelier 1 - Présentation des coroutines](https://developer.android.com/codelabs/basic-android-kotlin-compose-coroutines-kotlin-playground?hl=fr)
+
+[Atelier 2 - Coroutines dans Android Studio](https://developer.android.com/codelabs/basic-android-kotlin-compose-coroutines-android-studio?hl=fr)
+
+[Atelier 3 - Repository et injection de dépendances dans Mars Photos](https://developer.android.com/codelabs/basic-android-kotlin-compose-add-repository?hl=fr)
+
+[Atelier 4 - Afficher des images d'Internet](https://developer.android.com/codelabs/basic-android-kotlin-compose-load-images?hl=fr)
