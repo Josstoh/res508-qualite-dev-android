@@ -46,6 +46,8 @@ Cours RES508 - Qualité de développement Android
 
 [Atelier 2 - ViewModel et état dans Compose avec l'app Unscramble](https://developer.android.com/codelabs/basic-android-kotlin-compose-viewmodel-and-state?hl=fr)
 
+[Mots en français pour Unscramble](https://gist.github.com/Josstoh/e01d893314aec90d8ae1715f33f0e351)
+
 [Atelier 3 - Tests unitaires sur ViewModel sur Unscramble](https://developer.android.com/codelabs/basic-android-kotlin-compose-test-viewmodel?hl=fr)
 
 # Séance 5 : Internet et coroutine
