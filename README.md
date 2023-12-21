@@ -56,6 +56,8 @@ Cours RES508 - Qualité de développement Android
 
 [Atelier 2 - Coroutines dans Android Studio](https://developer.android.com/codelabs/basic-android-kotlin-compose-coroutines-android-studio?hl=fr)
 
-[Atelier 3 - Repository et injection de dépendances dans Mars Photos](https://developer.android.com/codelabs/basic-android-kotlin-compose-add-repository?hl=fr)
+[Atelier 3 - Récupérer des données d'Internet](https://developer.android.com/codelabs/basic-android-kotlin-compose-getting-data-internet?hl=fr)
 
-[Atelier 4 - Afficher des images d'Internet](https://developer.android.com/codelabs/basic-android-kotlin-compose-load-images?hl=fr)
+[Atelier 4 - Repository et injection de dépendances dans Mars Photos](https://developer.android.com/codelabs/basic-android-kotlin-compose-add-repository?hl=fr)
+
+[Atelier 5 - Afficher des images d'Internet](https://developer.android.com/codelabs/basic-android-kotlin-compose-load-images?hl=fr)
