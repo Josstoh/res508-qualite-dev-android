@@ -4,7 +4,7 @@
         "name" : "Bulbizarre",
         "type": ["Plante", "Poison"],
         "description": "Bulbizarre passe son temps à faire la sieste sous le soleil. Il y a une graine sur son dos. Il absorbe les rayons du soleil pour faire doucement pousser la graine.",
-        "image" : "https://www.pokepedia.fr/images/e/ef/Bulbizarre-RFVF.png",
+        "image_url" : "https://www.pokepedia.fr/images/e/ef/Bulbizarre-RFVF.png",
         "evolutions" : {
             "before" : [],
             "after" : [2, 3]
@@ -15,7 +15,7 @@
         "name" : "Herbizarre",
         "type": ["Plante", "Poison"],
         "description": "Un bourgeon a poussé sur le dos de ce Pokémon. Pour en supporter le poids, Herbizarre a dû se muscler les pattes. Lorsqu'il commence à se prélasser au soleil, ça signifie que son bourgeon va éclore, donnant naissance à une fleur.",
-        "image" : "https://www.pokepedia.fr/images/4/44/Herbizarre-RFVF.png",
+        "image_url" : "https://www.pokepedia.fr/images/4/44/Herbizarre-RFVF.png",
         "evolutions" : {
             "before" : [1],
             "after" : [3]
@@ -26,7 +26,7 @@
         "name" : "Florizarre",
         "type": ["Plante", "Poison"],
         "description": "Une belle fleur se trouve sur le dos de Florizarre. Elle prend une couleur vive lorsqu'elle est bien nourrie et bien ensoleillée. Le parfum de cette fleur peut apaiser les gens.",
-        "image" : "https://www.pokepedia.fr/images/4/42/Florizarre-RFVF.png",
+        "image_url" : "https://www.pokepedia.fr/images/4/42/Florizarre-RFVF.png",
         "evolutions" : {
             "before" : [1, 2],
             "after" : []
@@ -37,7 +37,7 @@
         "name" : "Salamèche",
         "type": ["Feu"],
         "description": "La flamme qui brûle au bout de sa queue indique l'humeur de ce Pokémon. Elle vacille lorsque Salamèche est content. En revanche, lorsqu'il s'énerve, la flamme prend de l'importance et brûle plus ardemment.",
-        "image" : "https://www.pokepedia.fr/images/8/89/Salam%C3%A8che-RFVF.png",
+        "image_url" : "https://www.pokepedia.fr/images/8/89/Salam%C3%A8che-RFVF.png",
         "evolutions" : {
             "before" : [],
             "after" : [5, 6]
@@ -48,7 +48,7 @@
         "name" : "Reptincel",
         "type": ["Feu"],
         "description": "Reptincel lacère ses ennemis sans pitié grâce à ses griffes acérées. S'il rencontre un ennemi puissant, il devient agressif et la flamme au bout de sa queue s'embrase et prend une couleur bleu clair.",
-        "image" : "https://www.pokepedia.fr/images/6/64/Reptincel-RFVF.png",
+        "image_url" : "https://www.pokepedia.fr/images/6/64/Reptincel-RFVF.png",
         "evolutions" : {
             "before" : [4],
             "after" : [6]
@@ -59,7 +59,7 @@
         "name" : "Dracaufeu",
         "type": ["Feu", "Vol"],
         "description": "Dracaufeu parcourt les cieux pour trouver des adversaires à sa mesure. Il crache de puissantes flammes capables de faire fondre n'importe quoi. Mais il ne dirige jamais son souffle destructeur vers un ennemi plus faible.",
-        "image" : "https://www.pokepedia.fr/images/1/17/Dracaufeu-RFVF.png",
+        "image_url" : "https://www.pokepedia.fr/images/1/17/Dracaufeu-RFVF.png",
         "evolutions" : {
             "before" : [4, 5],
             "after" : []
@@ -70,7 +70,7 @@
         "name" : "Carapuce",
         "type": ["Eau"],
         "description": "La carapace de Carapuce ne sert pas qu'à le protéger. La forme ronde de sa carapace et ses rainures lui permettent d'améliorer son hydrodynamisme. Ce Pokémon nage extrêmement vite.",
-        "image" : "https://www.pokepedia.fr/images/c/cc/Carapuce-RFVF.png",
+        "image_url" : "https://www.pokepedia.fr/images/c/cc/Carapuce-RFVF.png",
         "evolutions" : {
             "before" : [],
             "after" : [8, 9]
@@ -81,7 +81,7 @@
         "name" : "Carabaffe",
         "type": ["Eau"],
         "description": "Carabaffe a une large queue recouverte d'une épaisse fourrure. Elle devient de plus en plus foncée avec l'âge. Les éraflures sur la carapace de ce Pokémon témoignent de son expérience aux combats.",
-        "image" : "https://www.pokepedia.fr/images/2/2a/Carabaffe-RFVF.png",
+        "image_url" : "https://www.pokepedia.fr/images/2/2a/Carabaffe-RFVF.png",
         "evolutions" : {
             "before" : [7],
             "after" : [9]
@@ -92,7 +92,7 @@
         "name" : "Tortank",
         "type": ["Eau"],
         "description": "Tortank dispose de canons à eau émergeant de sa carapace. Ils sont très précis et peuvent envoyer des balles d'eau capables de faire mouche sur une cible située à plus de 50 m.",
-        "image" : "https://www.pokepedia.fr/images/2/24/Tortank-RFVF.png",
+        "image_url" : "https://www.pokepedia.fr/images/2/24/Tortank-RFVF.png",
         "evolutions" : {
             "before" : [7, 8],
             "after" : []
@@ -103,7 +103,7 @@
         "name": "Chenipan",
         "type": ["Insecte"],
         "description": "Chenipan a un appétit d'ogre. Il peut engloutir des feuilles plus grosses que lui. Les antennes de ce Pokémon dégagent une odeur particulièrement entêtante.",
-        "image": "https://www.pokepedia.fr/images/c/c7/Chenipan-RFVF.png",
+        "image_url": "https://www.pokepedia.fr/images/c/c7/Chenipan-RFVF.png",
         "evolutions": {
             "before": [],
             "after": [11, 12]
@@ -114,7 +114,7 @@
         "name": "Chrysacier",
         "type": ["Insecte"],
         "description": "La carapace protégeant ce Pokémon est dure comme du métal. Chrysacier ne bouge pas beaucoup. Il reste immobile pour préparer les organes à l'intérieur de sa carapace en vue d'une évolution future.",
-        "image": "https://www.pokepedia.fr/images/6/6c/Chrysacier-RFVF.png",
+        "image_url": "https://www.pokepedia.fr/images/6/6c/Chrysacier-RFVF.png",
         "evolutions": {
             "before": [10],
             "after": [12]
@@ -125,7 +125,7 @@
         "name": "Papilusion",
         "type": ["Insecte", "Vol"],
         "description": "Papilusion est très doué pour repérer le délicieux nectar qu'il butine dans les fleurs. Il peut détecter, extraire et transporter le nectar de fleurs situées à plus de 10 km de son nid.",
-        "image": "https://www.pokepedia.fr/images/8/83/Papilusion-RFVF.png",
+        "image_url": "https://www.pokepedia.fr/images/8/83/Papilusion-RFVF.png",
         "evolutions": {
             "before": [10, 11],
             "after": []
@@ -136,7 +136,7 @@
         "name": "Aspicot",
         "type": ["Insecte", "Poison"],
         "description": "L'odorat d'Aspicot est extrêmement développé. Il lui suffit de renifler ses feuilles préférées avec son gros appendice nasal pour les reconnaître entre mille.",
-        "image": "https://www.pokepedia.fr/images/9/9b/Aspicot-RFVF.png",
+        "image_url": "https://www.pokepedia.fr/images/9/9b/Aspicot-RFVF.png",
         "evolutions": {
             "before": [],
             "after": [14, 15]
@@ -147,7 +147,7 @@
         "name": "Coconfort",
         "type": ["Insecte", "Poison"],
         "description": "Coconfort est la plupart du temps immobile et reste accroché à un arbre. Cependant, intérieurement, il est très actif, car il se prépare pour sa prochaine évolution. En touchant sa carapace, on peut sentir sa chaleur.",
-        "image": "https://www.pokepedia.fr/images/b/b6/Coconfort-RFVF.png",
+        "image_url": "https://www.pokepedia.fr/images/b/b6/Coconfort-RFVF.png",
         "evolutions": {
             "before": [13],
             "after": [15]
@@ -158,7 +158,7 @@
         "name": "Dardargnan",
         "type": ["Insecte", "Poison"],
         "description": "Dardargnan est extrêmement possessif. Il vaut mieux ne pas toucher à son nid si on veut éviter d'avoir des ennuis. Lorsqu'ils sont en colère, ces Pokémon attaquent en masse.",
-        "image": "https://www.pokepedia.fr/images/e/ee/Dardargnan-RFVF.png",
+        "image_url": "https://www.pokepedia.fr/images/e/ee/Dardargnan-RFVF.png",
         "evolutions": {
             "before": [13, 14],
             "after": []
@@ -169,7 +169,7 @@
         "name": "Roucool",
         "type": ["Normal", "Vol"],
         "description": "Roucool a un excellent sens de l'orientation. Il est capable de retrouver son nid sans jamais se tromper, même s'il est très loin de chez lui et dans un environnement qu'il ne connaît pas.",
-        "image": "https://www.pokepedia.fr/images/9/94/Roucool-RFVF.png",
+        "image_url": "https://www.pokepedia.fr/images/9/94/Roucool-RFVF.png",
         "evolutions": {
             "before": [],
             "after": [17, 18]
@@ -180,7 +180,7 @@
         "name": "Roucoups",
         "type": ["Normal", "Vol"],
         "description": "Roucoups utilise une vaste surface pour son territoire. Ce Pokémon surveille régulièrement son espace aérien. Si quelqu'un pénètre sur son territoire, il corrige l'ennemi sans pitié d'un coup de ses terribles serres.",
-        "image": "https://www.pokepedia.fr/images/d/dc/Roucoups-RFVF.png",
+        "image_url": "https://www.pokepedia.fr/images/d/dc/Roucoups-RFVF.png",
         "evolutions": {
             "before": [16],
             "after": [18]
@@ -191,7 +191,7 @@
         "name": "Roucarnage",
         "type": ["Normal", "Vol"],
         "description": "Ce Pokémon est doté d'un plumage magnifique et luisant. Bien des Dresseurs sont captivés par la beauté fatale de sa huppe et décident de choisir Roucarnage comme leur Pokémon favori.",
-        "image": "https://www.pokepedia.fr/images/d/d8/Roucarnage-RFVF.png",
+        "image_url": "https://www.pokepedia.fr/images/d/d8/Roucarnage-RFVF.png",
         "evolutions": {
             "before": [16, 17],
             "after": []
