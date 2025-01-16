@@ -6,6 +6,7 @@
 * [Bibliothèque client InfluxDb pour Kotlin](https://github.com/influxdata/influxdb-client-java/tree/master/client-kotlin)
 
 * [Documentation pour accéder à HomeAssistant Rest API](https://developers.home-assistant.io/docs/api/rest/)
+  * POST /api/services/<domain>/<service>
 
 
 # Cours RES508 - Qualité de développement Android
