@@ -1,7 +1,6 @@
-COUCOU
 # SAE S5.A.01 SAé projet
 
-## Ressources utiles pour le projetdsq
+## Ressources utiles pour le projet
 * [Bibliothèque Vico pour afficher des graphiques avec Jetpack Compose](https://patrykandpatrick.com/vico/wiki/)
 
 * [Bibliothèque client InfluxDb pour Kotlin](https://github.com/influxdata/influxdb-client-java/tree/master/client-kotlin)
@@ -9,6 +8,7 @@ COUCOU
 * [Documentation pour accéder à HomeAssistant Rest API](https://developers.home-assistant.io/docs/api/rest/)
   * POST /api/services/\<domain\>/\<service\> : Permet d'appeler des services pour intéragir avec des actionneurs (par exemple, allumer une prise connectée). 
   * GET /api/states/\<entity_id\> : Permet de récupérer l'état actuel de votre entité (par exemplen, est-ce que la prise est allumée ou non)
+
 
 # Cours RES508 - Qualité de développement Android
 
