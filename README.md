@@ -9,6 +9,12 @@
   * POST /api/services/\<domain\>/\<service\> : Permet d'appeler des services pour intéragir avec des actionneurs (par exemple, allumer une prise connectée). 
   * GET /api/states/\<entity_id\> : Permet de récupérer l'état actuel de votre entité (par exemplen, est-ce que la prise est allumée ou non)
 
+# Astuces
+
+* Obtenir un lien GitHub brute à utiliser dans votre projet :
+ * Pour le créer à la main : https://raw.githubusercontent.com/<your_Github_username>/<your_repository_name>/<branch_name>/<file_name>.<extension_name>
+ * Sur certaines pages, quand vous ouvrer le fichier (par exemple un JSON), vous avez un bouton **raw** en haut à droite.
+
 
 # Cours RES508 - Qualité de développement Android
 
