@@ -12,8 +12,8 @@
 # Astuces
 
 * Obtenir un lien GitHub brute à utiliser dans votre projet :
- * Pour le créer à la main : https://raw.githubusercontent.com/<your_Github_username>/<your_repository_name>/<branch_name>/<file_name>.<extension_name>
- * Sur certaines pages, quand vous ouvrer le fichier (par exemple un JSON), vous avez un bouton **raw** en haut à droite.
+  * Pour le créer à la main : https://raw.githubusercontent.com/<your_Github_username>/<your_repository_name>/<branch_name>/<file_name>.<extension_name>
+   * Sur certaines pages, quand vous ouvrer le fichier (par exemple un JSON), vous avez un bouton **raw** en haut à droite.
 
 
 # Cours RES508 - Qualité de développement Android
