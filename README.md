@@ -11,7 +11,7 @@
 
 # Astuces
 
-* Obtenir un lien GitHub brute à utiliser dans votre projet :
+* Obtenir un lien GitHub brute à utiliser dans votre projet pour les ressources (images, JSON, pdf...) :
   * Pour le créer à la main : https://raw.githubusercontent.com/<your_Github_username>/<your_repository_name>/<branch_name>/<file_name>.<extension_name> (exemple : https://raw.githubusercontent.com/Josstoh/res508-qualite-dev-android/main/rest/pokemons.json )
   * Sur certaines pages, quand vous ouvrer le fichier (par exemple un JSON), vous avez un bouton **raw** en haut à droite.
 
